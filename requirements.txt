@@ -1,0 +1,8 @@
+boto3
+awscli
+torch
+torchvision
+tensorflow
+pandas
+scikit-learn
+pyarrow
